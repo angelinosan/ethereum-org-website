@@ -10,7 +10,7 @@ As utilization of the network continues to grow, an increasing amount of valuabl
 
 Leveraging existing data providers can expedite development, produce more accurate results, and reduce ongoing maintenance efforts. This will enable a team to concentrate on the core functionality their project is trying to provide.
 
-## Prerequisites {#prerequisites}
+## Prerequisites {#prerequisites}https://github.com/ethereum
 
 You should understand the basic concept of [Block Explorers](/developers/docs/data-and-analytics/block-explorers/) in order to better understand using them in the data analytics context. In addition, familiarize yourself with the concept of an [index](/glossary/#index) to understand the benefits they add to a system design.
 
@@ -65,6 +65,12 @@ To get started, visit the [documentation](https://docs.codex.io), try the [Explo
 [Mobula](https://mobula.io/) is a high-performance crypto data API providing real-time and historical market data, token metadata, wallet portfolios, and on-chain analytics across 90+ blockchains. Developers can access REST and GraphQL endpoints for token prices, market caps, trading volumes, liquidity data, and multi-chain wallet balances without running their own infrastructure. Mobula offers both free (100K requests/month) and paid plans for production applications.
 
 To get started, visit the [documentation](https://docs.mobula.io), explore the [API reference](https://docs.mobula.io/reference/), or sign up at the [dashboard](https://mobula.io/).
+
+## Serialized {#serialized}
+
+[Serialized](https://serialized.xyz/) is a real-time onchain data API built for trading apps, terminals and wallets on Ethereum, Solana and other EVM chains such as Base, BNB Chain, Arbitrum and Avalanche. Developers can access token prices, OHLCV candles, trades, holders, top traders, wallet positions and PnL, and token security signals over REST, or subscribe to live WebSocket streams, without running their own indexing infrastructure. Serialized offers free trial credits, then pay-as-you-go and monthly plans.
+
+To get started, visit the [documentation](https://docs.serialized.xyz/introduction) or sign up at the [portal](https://serialized.xyz/portal).
 
 ## EVM Query Language {#evm-query-language}
 
